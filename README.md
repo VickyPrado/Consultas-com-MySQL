@@ -5,7 +5,7 @@ Scripts criados utilizando a linguagem:
 > MySQL
 
 IDE utilizada:
-> MSQL Workbench 8.0 CE
+> MYSQL Workbench 8.0 CE
 
 Instalação pelo:
 > XAMPP Control Panel
